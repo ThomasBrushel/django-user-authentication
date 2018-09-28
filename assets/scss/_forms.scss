@@ -1,0 +1,9 @@
+$local-input-padding: .8em;
+
+input {
+  margin-bottom: 1em;
+  display: block;
+  padding: $local-input-padding;
+  width: 100%;
+  font-size: 1em;
+}

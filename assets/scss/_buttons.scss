@@ -1,0 +1,8 @@
+.btn {
+  text-transform: uppercase;
+  padding: 1.3em 2.5em;
+  &.btn-submit {
+    background: black;
+    color: white;
+  }
+}
